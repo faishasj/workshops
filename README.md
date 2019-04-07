@@ -8,3 +8,5 @@ Feel free to open any issues or pull requests!
 ## Table of Contents
 
 - [**Git Educated!**](git-educated) - An introductory workshop on version control that covers the basics of Git and GitHub. I run this workshop with [Monash diversIT](https://monashdiversit.com/) as their technology officer.
+
+![Git Educated title slide](assets/git-educated.png)
