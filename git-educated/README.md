@@ -12,9 +12,9 @@
 
 - [**Extra resources**](#extra-resources)
 
-	- [**Resources on Git**](#resources-on-git)
+	- [Resources on Git](#resources-on-git)
 	
-	- [**Git GUI clients**](#git-gui-clients)
+	- [Git GUI clients](#git-gui-clients)
 
 ## Workshop summary
 
@@ -26,7 +26,7 @@ In the second part, we go into a live demonstration designed for attendees to fo
 
 - Setting up a repository (`git init`, `git config`)
 
-- Saving changes (`git status`, `git add`, `git commit`, `git mv`, `git rm`, `.gitignore`)
+- Saving changes (`git status`, `git add`, `git commit`, `git mv`, `git rm`, .gitignore)
 
 - Stashing changes (`git stash`, `git stash pop`, `git stash apply`)
 
@@ -40,7 +40,7 @@ In the second part, we go into a live demonstration designed for attendees to fo
 
 Attendees should be instructed to install Git and create a GitHub account beforehand.
 
-The slides for the live demonstration only include Git commands, however the workshop can be done side-by-side with a Git GUI client (links to different clients are under the [extra resources](#extra-resources) section).
+The slides for the live demonstration only include Git commands, however the workshop can be done side-by-side with a Git GUI client (links to different clients are under the [extra resources](#resources-on-git) section).
 
 Directories and files can be created on the fly for live demonstration purposes. For examples or inspiration, check out the notes in the [presentation slides](#presentation-slides) section.
 
